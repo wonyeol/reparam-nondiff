@@ -6,7 +6,7 @@ Hangyeol Yu,
 NIPS 2018
 
 ## Code
-The script to perform the experiments shown in the paper is as follows.
+The script to perform the experiments shown in the above NIPS'18 paper is as follows.
 ```
 ./script.sh 0.001 1 16
 ./script.sh 0.001 8  0
