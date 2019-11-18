@@ -3,7 +3,7 @@ Reparameterization Gradient for Non-differentiable Models<br/>
 [Wonyeol Lee](https://cs.stanford.edu/people/wonyeol/),
 Hangyeol Yu,
 [Hongseok Yang](https://sites.google.com/view/hongseokyang/)<br/>
-NeurIPS 2018
+[NeurIPS 2018](https://neurips.cc/Conferences/2018)
 [[paper](https://arxiv.org/abs/1806.00176)]
 
 ## Code
